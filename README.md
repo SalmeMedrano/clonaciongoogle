@@ -1,7 +1,7 @@
 #Clonación de la interfaz de Google creado con HTMLS y CSS3 en el bootcam de TecnolochicasPro
  
  
- ##*ÍNDICE**
+ ##**ÍNDICE**
  
  * [1. Intro](#)
  * [2. Qué contruí](#)
